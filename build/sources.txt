@@ -1,0 +1,1 @@
+com\mewsubi\sticc\Sticc.class
